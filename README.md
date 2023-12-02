@@ -7,7 +7,7 @@ This repository contains the code, exploratory data analysis (EDA), and datasets
 - `Codes/`: This directory contains all the source code used in the analysis.
 - `Datasets/`: This directory contains the datasets used in the project.
 - `EDA/`: Generated figures and plots for EDA and model results.
-- 'Literature/': Papers and articles used for formulation
+- `Literature/`: Papers and articles used for model formulation.
 
 ## Dataset Sources
 - Our World in Data : https://ourworldindata.org/
